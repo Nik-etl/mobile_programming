@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.satview"
+    namespace = "com.example.shredlog"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.satview"
+        applicationId = "com.example.shredlog"
         minSdk = 33
         targetSdk = 36
         versionCode = 1

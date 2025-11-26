@@ -1,4 +1,4 @@
-package com.example.satview
+package com.example.shredlog
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*

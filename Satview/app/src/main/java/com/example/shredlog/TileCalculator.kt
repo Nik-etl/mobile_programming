@@ -1,4 +1,4 @@
-package com.example.satview
+package com.example.shredlog
 
 import kotlin.math.floor
 import kotlin.math.pow

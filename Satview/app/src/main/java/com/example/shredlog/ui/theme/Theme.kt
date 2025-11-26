@@ -1,6 +1,5 @@
-package com.example.satview.ui.theme
+package com.example.shredlog.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

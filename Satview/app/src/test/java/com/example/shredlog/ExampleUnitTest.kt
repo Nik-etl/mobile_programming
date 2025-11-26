@@ -1,4 +1,4 @@
-package com.example.satview
+package com.example.shredlog
 
 import org.junit.Test
 

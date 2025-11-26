@@ -1,4 +1,4 @@
-package com.example.satview
+package com.example.shredlog
 
 import android.content.Context
 import androidx.datastore.core.DataStore

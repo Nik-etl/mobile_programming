@@ -1,4 +1,4 @@
-package com.example.satview.ui.theme
+package com.example.shredlog.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

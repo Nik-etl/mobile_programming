@@ -1,2 +1,2 @@
 # mobile_programming
-This repo is used for my mobile programming course 
+This folder contains all of the exercises made on android studio

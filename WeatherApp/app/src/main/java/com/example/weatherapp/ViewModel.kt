@@ -7,7 +7,7 @@ import kotlinx.coroutines.launch
 
 class WeatherViewModel : ViewModel() {
 
-    private val apiKey = "fbc8450cc544c6714911b2315ff852e2"
+    private val apiKey = BuildConfig.WEATHERAPIKEY
 
     private val _weatherList = mutableStateListOf<WeatherResponse>()
     val weatherList: List<WeatherResponse> get() = _weatherList
